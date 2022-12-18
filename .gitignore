@@ -1,2 +1,2 @@
 # Ignore all WAV files in any directory or subdirectory
-**/.wav
+*.wav
