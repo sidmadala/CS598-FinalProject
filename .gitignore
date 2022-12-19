@@ -1,2 +1,5 @@
 # Ignore all WAV files in any directory or subdirectory
 *.wav
+
+# Ignore Mac files
+*.DS_Store
